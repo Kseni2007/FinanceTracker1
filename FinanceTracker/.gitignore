@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+Data/
+Logs/
+*.user
