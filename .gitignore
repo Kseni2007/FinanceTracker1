@@ -1,0 +1,9 @@
+## .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+
+## Runtime data & logs (создаются при запуске)
+Data/
+Logs/
